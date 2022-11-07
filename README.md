@@ -1,5 +1,5 @@
 <h1 align="center">Colours App</h1>
-<h1 align="center">Application for choosing colours.</h1>
+<h3 align="center">Application for choosing colours.</h3>
 
 ![ScreenShot Tool -20221107230322](https://user-images.githubusercontent.com/75558987/200403786-94cfc1e0-7719-4c0e-bacb-39be1b5694e2.png)
 
