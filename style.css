@@ -1,0 +1,47 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Fuzzy Bubbles', cursive;
+	height: 100vh;
+	display: flex;
+}
+
+.col {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.col h2 {
+	padding: 10px;
+	color: teal;
+	border-radius: 10px;
+	transition: background 0.7s;
+}
+
+.col h2:hover {
+	background: rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+}
+
+.col button {
+	border: none;
+	background: transparent;
+	font-size: 1.5rem;
+	color: teal;
+	padding: 10px;
+	border-radius: 10px;
+	transition: background 0.7s;
+	outline: none;
+}
+
+.col button:hover {
+	background: rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+}
